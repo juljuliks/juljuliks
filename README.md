@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Julia
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javaScript
+- 🌱 I’m currently learning React
 - 📫 How to reach me juljuliks@gmail.com
 
 <!---
