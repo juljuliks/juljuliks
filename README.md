@@ -12,9 +12,9 @@
 [<img align="left" alt="juljuliks | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="juljuliks | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
 <br />
 <br />
+---
 
 ### Мой стек:
 
@@ -36,7 +36,7 @@
 <br />
 
 ---
-
+### GitHub Статистика:
 [![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juljuliks&theme=nightowl)](https://github.com/juljuliks/github-readme-stats)
 
 [resume]: https://drive.google.com/file/d/1fimloQQ7aPQDQ1kvQda6bTDQsP9zl313/view?usp=sharing
