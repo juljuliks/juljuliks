@@ -32,9 +32,12 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
+<br />
+<br />
+
 ---
 
-[![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juljuliks)](https://github.com/juljuliks/github-readme-stats)
+[![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juljuliks&theme=dark)](https://github.com/juljuliks/github-readme-stats)
 
 [resume]: https://drive.google.com/file/d/1fimloQQ7aPQDQ1kvQda6bTDQsP9zl313/view?usp=sharing
 [resumeHH]: https://hh.ru/resume/e74a53f2ff095f7dfb0039ed1f657455356546
