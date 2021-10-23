@@ -33,6 +33,9 @@
 [<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][git]
 [<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][git]
 
+<br/>
+<br/>
+
 - **Фронтенд**: React, Redux (Saga, Thunk), TypeScript, JS, HTML5, CSS3, Sass
 - **Бекенд**: Node.js, Express, Sessions, WebSockets
 - **Базы данных**: PostgreSQL, Sequelize ORM
