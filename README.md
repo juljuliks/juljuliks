@@ -13,7 +13,7 @@
 [<img align="left" alt="juljuliks | WhatsApp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />][whatsapp]
 [<img align="left" alt="juljuliks | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 
-***
+<br/>
 ---
 ### Мой стек:
 
