@@ -35,6 +35,7 @@
 
 <br/>
 <br/>
+<br/>
 
 - **Фронтенд**: React, Redux (Saga, Thunk), TypeScript, JS, HTML5, CSS3, Sass
 - **Бекенд**: Node.js, Express, Sessions, WebSockets
