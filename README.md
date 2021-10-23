@@ -1,16 +1,17 @@
 ### Привет! Я - Юля, frontend разработчик!
 
-- :point_right: Я ищу работу! [Moe резюме][resume] | [Мое резюме на HH][resumeHH]
+- :point_right: Я ищу работу! [Moe резюме][resume] | [Мое резюме на hh][resumeHH]
 - 👀 Интересуюсь web-разработкой, урбанистикой, путешествиями
 - :space_invader:  В настоящее время изучаю TypeScript
 - 📫 Как связаться: glukhovajulia.jobs@gmail.com
 
+---
 ### Контакты:
 
-[<img align="left" alt="juljuliks | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="juljuliks | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
-[<img align="left" alt="juljuliks | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" />][whatsapp]
-[<img align="left" alt="juljuliks | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="juljuliks | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />][linkedin]
+[<img align="left" alt="juljuliks | Telegram" width="22px" src=https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
+[<img align="left" alt="juljuliks | WhatsApp" width="22px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />][whatsapp]
+[<img align="left" alt="juljuliks | Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 
 <br />
 <br />
