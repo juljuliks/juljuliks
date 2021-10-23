@@ -13,8 +13,8 @@
 [<img align="left" alt="juljuliks | WhatsApp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />][whatsapp]
 [<img align="left" alt="juljuliks | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 
-<br />
-<br />
+***
+***
 
 ---
 ### Мой стек:
@@ -33,14 +33,14 @@
 [<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][git]
 [<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][git]
 
-<br /> 
-<br /> 
-<br /> 
+***
+***
+***
 
-- Фронтенд: React, Redux (Saga, Thunk), TypeScript, JS, HTML5, CSS3, Sass
-- Бекенд: Node.js, Express, Sessions, WebSockets
-- Базы данных: PostgreSQL, Sequelize ORM
-- A также: Jest, Docker, REST
+- **Фронтенд**: React, Redux (Saga, Thunk), TypeScript, JS, HTML5, CSS3, Sass
+- **Бекенд**: Node.js, Express, Sessions, WebSockets
+- **Базы данных**: PostgreSQL, Sequelize ORM
+- **A также**: Jest, Docker, REST
 
 
 ---
