@@ -19,19 +19,19 @@
 ---
 ### Мой стек:
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Redux"  width="26px" src="https://img.icons8.com/color/48/000000/redux.png"/>
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://img.icons8.com/color-glass/48/000000/sql.png"/>
-<img align="left" alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/50/000000/postgreesql.png"/>
-<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/48/000000/docker.png"/>
-<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][git]
+[<img align="left" alt="TypeScript" width="26px" src="https://img.icons8.com/color/48/000000/typescript.png"/>][git]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][git]
+[<img align="left" alt="Redux"  width="26px" src="https://img.icons8.com/color/48/000000/redux.png"/>][git]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][git]
+[<img align="left" alt="SQL" width="26px" src="https://img.icons8.com/color-glass/48/000000/sql.png"/>][git]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/50/000000/postgreesql.png"/>][git]
+[<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/48/000000/docker.png"/>][git]
+[<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png"/>][git]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][git]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][git]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][git]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][git]
 
 <br />
 <br />
@@ -46,7 +46,7 @@
 [whatsapp]: https://wa.me/79821194609
 [telegram]: https://t.me/juljulik 
 [instagram]: https://www.instagram.com/juljuliks
-
+[git]: https://github.com/juljuliks
 <!---
 juljuliks/juljuliks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
