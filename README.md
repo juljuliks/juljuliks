@@ -8,7 +8,6 @@
 ---
 ### Контакты:
 
-[<img align="left" alt="juljuliks | LinkedIn" width="22px" src="https://img.icons8.com/fluency/48/000000/email.png" />][email]
 [<img align="left" alt="juljuliks | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />][linkedin]
 [<img align="left" alt="juljuliks | Telegram" width="22px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
 [<img align="left" alt="juljuliks | WhatsApp" width="22px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />][whatsapp]
@@ -48,7 +47,6 @@
 [telegram]: https://t.me/juljulik 
 [instagram]: https://www.instagram.com/juljuliks
 [git]: https://github.com/juljuliks
-[email]: glukhovajulia.jobs@gmail.com
 <!---
 juljuliks/juljuliks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
