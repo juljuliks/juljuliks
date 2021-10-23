@@ -37,7 +37,7 @@
 <br/>
 <br/>
 
-- **Фронтенд**: React, Redux (Saga, Thunk), TypeScript, JS, HTML5, CSS3, Sass
+- **Фронтенд**: React, Redux (Saga, Thunk, Toolkit), TypeScript, JS, HTML5, CSS3, Sass
 - **Бекенд**: Node.js, Express, Sessions, WebSockets
 - **Базы данных**: PostgreSQL, Sequelize ORM
 - **A также**: Jest, Docker, REST
