@@ -44,7 +44,7 @@
 
 
 ---
-### GitHub Статистика:
+### GitHub cтатистика:
 [![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juljuliks&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/juljuliks)
 
 [resume]: https://drive.google.com/file/d/1fimloQQ7aPQDQ1kvQda6bTDQsP9zl313/view?usp=sharing
