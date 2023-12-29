@@ -35,11 +35,8 @@
 <br/>
 <br/>
 
-- **Фронтенд**: JS, TypeScript, React, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Sass
-- **Бекенд**: Node.js, Express, Sessions/Tokens, CORS, WebSockets, hbs
-- **Базы данных**: PostgreSQL, Sequelize ORM
-- **A также**: Jest, Docker, REST
-
+- **Фронтенд**: JS, TypeScript, React, Redux (Saga, Thunk, Toolkit), HTML5, CSS3
+- **Бекенд**: Node.js, Express, Nest.js, PostgreSQL, Sequelize ORM, TypeORM
 
 ---
 ### GitHub cтатистика:
