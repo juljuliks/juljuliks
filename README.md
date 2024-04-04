@@ -1,10 +1,3 @@
-### Привет! Я - Юля, fullstack разработчик!
-
-- 👀 Интересуюсь web-разработкой, урбанистикой, путешествиями
-- :space_invader: PERN stack
-- 📫 Как связаться: glukhovajulia.jobs@gmail.com
-
----
 ### Контакты:
 
 [<img align="left" alt="juljuliks | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />][linkedin]
