@@ -31,8 +31,6 @@
 - **Фронтенд**: JS, TypeScript, React, Redux (Saga, Thunk, Toolkit), HTML5, CSS3
 - **Бекенд**: Node.js, Express, Nest.js, PostgreSQL, Sequelize ORM, TypeORM
 
----
-
 [resume]: https://drive.google.com/file/d/1fimloQQ7aPQDQ1kvQda6bTDQsP9zl313/view?usp=sharing
 [resumeHH]: https://hh.ru/resume/e74a53f2ff095f7dfb0039ed1f657455356546
 [linkedin]: https://www.linkedin.com/in/juliaglukhova
